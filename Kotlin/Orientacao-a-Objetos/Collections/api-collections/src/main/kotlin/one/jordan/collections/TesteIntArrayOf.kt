@@ -8,10 +8,8 @@ fun main() {
     }
 
     println("------------------------------------")
-
     values.sort()
     values.forEach {
         println(it)
     }
-
 }
