@@ -5,7 +5,7 @@ fun main() {
     nomes[0] = "Maria"
     nomes[1] = "Zaza"
     nomes[2] = "Jose"
- 
+
     for(nome in nomes){
         println(nome)
     }
